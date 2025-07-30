@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "slug": "attack-on-titan",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Attack+on+Titan",
+    "banner": "https://via.placeholder.com/1200x400?text=Attack+on+Titan+Banner",
+    "description": "Description for Attack on Titan.",
+    "rating": 8.5,
+    "year": 2010,
+    "episodes": 12,
+    "status": "Completed",
+    "popularity": 80
+  },
+  {
+    "id": 2,
+    "title": "Demon Slayer",
+    "slug": "demon-slayer",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Demon+Slayer",
+    "banner": "https://via.placeholder.com/1200x400?text=Demon+Slayer+Banner",
+    "description": "Description for Demon Slayer.",
+    "rating": 8.8,
+    "year": 2011,
+    "episodes": 13,
+    "status": "Ongoing",
+    "popularity": 81
+  },
+  {
+    "id": 3,
+    "title": "Jujutsu Kaisen",
+    "slug": "jujutsu-kaisen",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Jujutsu+Kaisen",
+    "banner": "https://via.placeholder.com/1200x400?text=Jujutsu+Kaisen+Banner",
+    "description": "Description for Jujutsu Kaisen.",
+    "rating": 9.1,
+    "year": 2012,
+    "episodes": 14,
+    "status": "Completed",
+    "popularity": 82
+  },
+  {
+    "id": 4,
+    "title": "Fullmetal Alchemist",
+    "slug": "fullmetal-alchemist",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Fullmetal+Alchemist",
+    "banner": "https://via.placeholder.com/1200x400?text=Fullmetal+Alchemist+Banner",
+    "description": "Description for Fullmetal Alchemist.",
+    "rating": 8.5,
+    "year": 2013,
+    "episodes": 15,
+    "status": "Ongoing",
+    "popularity": 83
+  },
+  {
+    "id": 5,
+    "title": "Death Note",
+    "slug": "death-note",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Death+Note",
+    "banner": "https://via.placeholder.com/1200x400?text=Death+Note+Banner",
+    "description": "Description for Death Note.",
+    "rating": 8.8,
+    "year": 2014,
+    "episodes": 16,
+    "status": "Completed",
+    "popularity": 84
+  },
+  {
+    "id": 6,
+    "title": "One Piece",
+    "slug": "one-piece",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=One+Piece",
+    "banner": "https://via.placeholder.com/1200x400?text=One+Piece+Banner",
+    "description": "Description for One Piece.",
+    "rating": 9.1,
+    "year": 2015,
+    "episodes": 17,
+    "status": "Ongoing",
+    "popularity": 85
+  },
+  {
+    "id": 7,
+    "title": "Naruto",
+    "slug": "naruto",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Naruto",
+    "banner": "https://via.placeholder.com/1200x400?text=Naruto+Banner",
+    "description": "Description for Naruto.",
+    "rating": 8.5,
+    "year": 2016,
+    "episodes": 18,
+    "status": "Completed",
+    "popularity": 86
+  },
+  {
+    "id": 8,
+    "title": "My Hero Academia",
+    "slug": "my-hero-academia",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=My+Hero+Academia",
+    "banner": "https://via.placeholder.com/1200x400?text=My+Hero+Academia+Banner",
+    "description": "Description for My Hero Academia.",
+    "rating": 8.8,
+    "year": 2017,
+    "episodes": 19,
+    "status": "Ongoing",
+    "popularity": 87
+  },
+  {
+    "id": 9,
+    "title": "Bleach",
+    "slug": "bleach",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Bleach",
+    "banner": "https://via.placeholder.com/1200x400?text=Bleach+Banner",
+    "description": "Description for Bleach.",
+    "rating": 9.1,
+    "year": 2018,
+    "episodes": 20,
+    "status": "Completed",
+    "popularity": 88
+  },
+  {
+    "id": 10,
+    "title": "Your Name",
+    "slug": "your-name",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Your+Name",
+    "banner": "https://via.placeholder.com/1200x400?text=Your+Name+Banner",
+    "description": "Description for Your Name.",
+    "rating": 8.5,
+    "year": 2019,
+    "episodes": 21,
+    "status": "Ongoing",
+    "popularity": 89
+  },
+  {
+    "id": 11,
+    "title": "Spirited Away",
+    "slug": "spirited-away",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Spirited+Away",
+    "banner": "https://via.placeholder.com/1200x400?text=Spirited+Away+Banner",
+    "description": "Description for Spirited Away.",
+    "rating": 8.8,
+    "year": 2020,
+    "episodes": 22,
+    "status": "Completed",
+    "popularity": 90
+  },
+  {
+    "id": 12,
+    "title": "Violet Evergarden",
+    "slug": "violet-evergarden",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Violet+Evergarden",
+    "banner": "https://via.placeholder.com/1200x400?text=Violet+Evergarden+Banner",
+    "description": "Description for Violet Evergarden.",
+    "rating": 9.1,
+    "year": 2021,
+    "episodes": 23,
+    "status": "Ongoing",
+    "popularity": 91
+  },
+  {
+    "id": 13,
+    "title": "Chainsaw Man",
+    "slug": "chainsaw-man",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Chainsaw+Man",
+    "banner": "https://via.placeholder.com/1200x400?text=Chainsaw+Man+Banner",
+    "description": "Description for Chainsaw Man.",
+    "rating": 8.5,
+    "year": 2022,
+    "episodes": 24,
+    "status": "Completed",
+    "popularity": 92
+  },
+  {
+    "id": 14,
+    "title": "Hunter x Hunter",
+    "slug": "hunter-x-hunter",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Hunter+x+Hunter",
+    "banner": "https://via.placeholder.com/1200x400?text=Hunter+x+Hunter+Banner",
+    "description": "Description for Hunter x Hunter.",
+    "rating": 8.8,
+    "year": 2023,
+    "episodes": 25,
+    "status": "Ongoing",
+    "popularity": 93
+  },
+  {
+    "id": 15,
+    "title": "Steins Gate",
+    "slug": "steins-gate",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "image": "https://via.placeholder.com/300x450?text=Steins+Gate",
+    "banner": "https://via.placeholder.com/1200x400?text=Steins+Gate+Banner",
+    "description": "Description for Steins Gate.",
+    "rating": 9.1,
+    "year": 2024,
+    "episodes": 26,
+    "status": "Completed",
+    "popularity": 94
+  }
+]

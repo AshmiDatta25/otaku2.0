@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anime Watchlist - Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Menu Toggle Button -->
+  <button class="menu-toggle" onclick="toggleSidebar()">☰</button>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <h2>Menu</h2>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="explore.html">Explore</a>
+      <a href="watchlist.html">Watchlist</a>
+    </nav>
+    <ul class="genre-list">
+      <li>Action</li>
+      <li>Adventure</li>
+      <li>Romance</li>
+      <li>Fantasy</li>
+      <li>Sci-Fi</li>
+      <li>Drama</li>
+    </ul>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <section class="hero">
+      <h1>Welcome to AnimeWatch</h1>
+      <p>Track your favorite anime, explore genres, and build your ultimate watchlist!</p>
+    </section>
+
+    <section class="recommendations">
+      <h2>Recommended Anime</h2>
+      <div class="anime-list">
+        <!-- Placeholder Cards -->
+        <div class="anime-card">
+          <img src="tadposter.jpeg" alt="Anime 1">
+          <h4>The Apothecary Diaries</h4>
+        </div>
+        <div class="anime-card">
+          <img src="haikyuuposter.jpeg" alt="Anime 2">
+          <h4>Haikyuu</h4>
+        </div>
+        <div class="anime-card">
+          <img src="jjkposter.jpeg" alt="Anime 3">
+          <h4>Jujutsu Kaisen</h4>
+        </div>
+        <div class="anime-card">
+          <img src="demslayposter.jpeg" alt="Anime 3">
+          <h4>Demon Slayer</h4>
+        </div>
+        <div class="anime-card">
+          <img src="Kuroshitsuji or Black Butler Videos.jpeg" alt="Anime 3">
+          <h4>Black Butler</h4>
+        </div>
+        <div class="anime-card">
+          <img src="mydressupdarlingposter.jpeg" alt="Anime 3">
+          <h4>My Dress-Up Darling</h4>
+        </div><div class="anime-card">
+          <img src="ohshc.jpeg" alt="Anime 3">
+          <h4>Ouran High School Host Club</h4>
+        </div><div class="anime-card">
+          <img src="Solo Leveling _ ♥︎.jpeg" alt="Anime 3">
+          <h4>Solo Leveling</h4>
+        </div><div class="anime-card">
+          <img src="Wind Breaker _ Key Visual.jpeg" alt="Anime 3">
+          <h4>Wind Breaker</h4>
+        </div><div class="anime-card">
+          <img src="heavenoffblessposter.jpeg" alt="Anime 3">
+          <h4>Heaven Official's Blessing</h4>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    function toggleSidebar() {
+      document.getElementById("sidebar").classList.toggle("open");
+    }
+  </script>
+</body>
+</html>
